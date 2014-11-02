@@ -1,0 +1,19 @@
+{
+    "name": "ocajo/php-lib",
+    "description": "PHP lib to work with Ocajo API",
+    "keywords": ["SES"],
+    "homepage": "http://github.com/joacodeviaje/ocajo-php-lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joaquín Miguez",
+            "email": "joacodeviaje@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {"Ocajo\\": ""}
+    }
+}
