@@ -11,7 +11,7 @@ class Client
 
     private static $instance;
 
-    private static $endpoint = 'http://local.api.ocajo.com/';
+    private static $endpoint = 'http://api.ocajo.com/';
 
     private static $warnings = array(
         \E_NOTICE            => 'Notice',
